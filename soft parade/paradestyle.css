@@ -1,0 +1,186 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	 background-color: #F5D592;
+	
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+h1{
+	
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:40px;
+}
+p1 {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:150px;
+	text-align:left;
+	color: #8BBADF
+}
+h2{
+	font-size:110px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+h3 {
+	font-size:200px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:center;
+	color:#1A2BE6
+}
+h4{
+	font-size:80px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:Red;
+	text-align:center;
+}
+p2 {
+	font-size:72px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:center;
+}
+p3 {
+	font-size:72px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:center;
+}
+
+p4 {
+	font-size:100px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:#60A7DF
+	;
+	text-align:center;
+}
+
+
+p5{
+		font-size:140px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align:center;
+	color: #C27EED
+}
+p6{
+	font-size:140px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align:center;
+	color: #62C26A;
+}
+	h5{
+		font-size:200px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:center;
+	color: #ED5765;
+	}
+		
+	p7{
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:90px;
+	}
+	
+	h6{
+	
+	font-size:110px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:left;
+	color: #51C01D;
+	}
+	
+	p8{
+			font-size:72px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: left;
+	color: #8B2E64;
+	}
+	
+	h7{
+		font-size:110px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:left;
+	color: #20C3D9
+	}
+	
+	h8{
+		font-size:72px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: left;
+	color: #2B8F7C
+	}
+	
+	h9{
+	font-size:160px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:left;
+	color: #DD8D12
+		}
+		
+		h10{
+			font-size:90px;
+			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: left;
+	color: #2B8F7C;
+		}
+		
+		h11{
+				font-size:72px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: left;
+	color: #ED7A7A;
+		}
+		
+		h12{
+			
+			font-size:100px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:left;
+	color: #80A04B
+		}
+			
+		
+		h13{
+			font-size:80px;
+			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align: center;
+	color: #B89AC7
+		}
+	
+			
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+	
